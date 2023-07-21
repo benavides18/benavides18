@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @benavides18
-- 👀 I’m interested in tech and sports
-- 🌱 I’m currently learning web development on my own and majoring in CS at my university
-- 💞️ I’m looking to collaborate on projects that allow me to practice Java and learn more about frameworks
-- 📫 You can reach me at my email, dbenavides6508@gmail.com
+<h1>Hi, I'm Donovan! </h1>
 
-<!---
-benavides18/benavides18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/don.benavides/
+[linkedin]: https://linkedin.com/in/donovan-benavides
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
